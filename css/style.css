@@ -1,0 +1,26 @@
+ul {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+img {
+  max-width: 100px;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  background: #6c07e3;
+}
+
+.menu-links {
+  display: flex;
+  margin-right: 10px;
+}
+
+.menu-links li {
+  padding: 10px;
+}
